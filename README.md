@@ -6,6 +6,12 @@ Additional resources include step-by-step tutorials, videos, and cheat sheets. D
 With thorough documentation and a gradual learning path, this repo aims to arm developers with a deep full stack toolbox. By contributing your own projects, you also help others on similar full career path journeys. Whether seeking completeness in skills or inspiration in ideas, check in often to grow as a premier full stack builder.
 
 
-Chat Application Link
+Chat Application Demo
 https://web.njit.edu/~rmp32/chatApp.html
+
+Hotel Login Demo
+https://web.njit.edu/~rmp32/login.php
+
+Book Store Application Demo
+https://web.njit.edu/~rmp32/home.html
 
